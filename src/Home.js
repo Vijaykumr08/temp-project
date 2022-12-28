@@ -6,7 +6,7 @@ const Home = (props) => {
   return (
     <div>
       <img src="Images/digital.png" alt="Wallpaper" />
-      <h2>Hello Js</h2>
+      <h2>Hello react</h2>
     </div>
   );
 };
